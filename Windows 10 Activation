@@ -2,7 +2,6 @@ Step 1 : Open Command Prompt as Administrator
 
 Step 2: slmgr /ipk yourlicensekey
 
-
 Step 3: Check Your OS Edition
 
 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
@@ -15,7 +14,6 @@ Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-
 
 
 Step 4: “slmgr /skms kms8.msguides.com
