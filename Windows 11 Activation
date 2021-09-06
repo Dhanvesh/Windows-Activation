@@ -1,0 +1,30 @@
+How To Activate Windows 11 Free
+
+Step 1 : Open Command Prompt as Administrator
+
+Step 2: Copy Command/Key accoding to your Windows 11 Edition 
+
+Windows 11 Home:			 slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Windows 11 Home N: 		         slmgr /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Windows 11 Home Single Language:	 slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Windows 11 Home Country Specific:	 slmgr /ipk PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Windows 11 Professional: 	         slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 11 Professional N: 		 slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
+Windows 11 Education: 			 slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Windows 11 Education N: 	  	 slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Windows 11 Enterprise: 			 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+Windows 11 Enterprise N: 	         slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
+
+Step 3: slmgr /skms kms8.msguides.com
+
+Step 4: slmgr /ato
+
+Note : If you see the error 0x80070005, it means the server is busy. Please try the command “ato” again until you succeed.
+
+
+
+
+By Dhanvesh Saini 
+Any Query Contact Me On My  : 
+Telegram : https://t.me/Dhanvesh          |    instagram/Dhanvesh007    |    Facebook/Dhanvesh007      |   Youtube.com/Dhanvesh
